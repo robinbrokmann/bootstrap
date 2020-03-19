@@ -1,0 +1,101 @@
+body{
+    background: rgb(33, 33, 33);
+    color: #ededed;
+}
+.logo1{
+    height: 75px;
+}
+#nav1{
+    background: rgba(26, 23, 27, 0.6);
+    color: #ededed;
+    font-size: 14px;
+}
+.text1{
+    text-align: center;
+    background: #161616;
+    height: 250px;
+}
+.text2{
+    text-align: center;
+    background: #161616;
+    height: 250px;
+}
+.buttons{
+    font-size: 40px;
+}
+.buttons i{
+    color: gold;
+}
+.carousel-item img{
+    height: 800px;
+}
+#carouselControls{
+    margin-top: 50px;
+    width: 1199.03px;
+    margin-left: 350px;
+}
+.footer {
+    position: relative;
+    top: 60px;
+}
+.linkjes{
+    margin-top: 25px;
+}
+.contact{
+    font-size: 30px;
+}
+.contact a {
+    color: #ededed;
+}
+
+
+.members{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.card-body{
+    background: black;
+}
+.member{
+    height: 457.5px;
+}
+
+.album{
+    height: 23rem;
+}
+
+.embed-responsive{
+    height: 600px;
+    width: 1067px;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.aangekondigd{
+    background: #161616;
+    text-align: center;
+    height: 300px;
+}
+@media (max-width: 1590px) {
+    #carouselControls{
+        margin: 0;
+     width: 100%;
+    }
+    .carousel-item img{
+        height: auto;
+    }
+    .embed-responsive{
+        margin: 0;
+        width: 100%;
+        height: auto;
+    }
+    .text1{
+        height: 300px;
+    }
+    .text2{
+        height: 400px;
+    }
+    .aangekondigd{
+        height: 500px;
+    }
+}
