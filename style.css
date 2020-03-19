@@ -76,6 +76,9 @@ body{
     text-align: center;
     height: 300px;
 }
+.cruise_img{
+    margin-left: 350px;
+}
 @media (max-width: 1590px) {
     #carouselControls{
         margin: 0;
@@ -97,5 +100,8 @@ body{
     }
     .aangekondigd{
         height: 500px;
+    }
+    .cruise_img{
+        margin: 0;
     }
 }
