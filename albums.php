@@ -7,41 +7,6 @@ require_once "nav.php";
     <title>Albums</title>
 </head>
 <body>
-<nav class="navbar fixed-top navbar-expand-md navbar-dark" id="nav1">
-
-    <a class="navbar-brand" href="index.php">
-        <img alt="logo" class="logo1 mr-auto" src="img/logo.png">
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="collapsibleNavbar">
-        <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-                <a class="nav-link text-reset" href="index.php">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-reset" href="band.php">Band</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-reset" href="albums.php">Albums</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-reset" href="news.html">Nieuws</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-reset" href="SOA.html">Sabaton Open-Air</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-reset" href="cruise.html">Sabaton Cruise</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-reset" href="contact.html">Contact</a>
-            </li>
-        </ul>
-    </div>
-</nav>
-
 <div class="header-div">
     <img alt="header" class="img-fluid w-100 header-img" src="img/header3.png">
 </div>
@@ -135,7 +100,7 @@ require_once "nav.php";
         <div class="card-body">
             <h2>The Great War (2019)</h2>
             <p class="card-text">Dit album gaat volledig over de 1e wereldoorlog.<br>
-            Het unieke aan dit album is dat het in 3 varianten is uitgekomen de History editie waar elk nummer een korte uitleg over de slag voor de muziek aan heeft, en de soundtrack edition dit is een versie van het album gespeeld door een orkest en kleinen stukken gezongen door Floor Jansen (Nightwish en vrouw van Hannes de drummer).</p>
+            Het unieke aan dit album is dat het in 3 varianten is uitgekomen de History editie waar elk nummer een korte uitleg over de slag voor de muziek aan heeft, en de soundtrack edition dit is een versie van het album gespeeld door een orkest en kleine stukken gezongen door Floor Jansen (Nightwish en vrouw van Hannes de drummer).</p>
         </div>
 
     </div>
