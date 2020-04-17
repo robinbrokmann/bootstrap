@@ -9,7 +9,7 @@
                 <a class="nav-item text-reset" href="../albums.php">Albums</a>
                 <a class="nav-item text-reset" href="../news/news.php">Nieuws</a>
                 <a class="nav-item text-reset" href="../open-air.php">Sabaton Open Air</a>
-                <a class="nav-item text-reset" href="../Cruise.php">Sabaton Cruise</a>
+                <a class="nav-item text-reset" href="../cruise.php">Sabaton Cruise</a>
                 <a class="nav-item text-reset" href="../login.php">login</a>
             </div>
         </div>

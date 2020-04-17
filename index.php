@@ -25,7 +25,7 @@ require_once "nav.php";
         </div>
     </div>
 </div>
-<div id="carouselControls" class="carousel slide">
+<div id="carouselControls" class="carouselhome carousel slide">
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img src="img/impressie1.jpg" class="img-fluid" alt="...">
