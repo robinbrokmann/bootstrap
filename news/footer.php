@@ -14,14 +14,14 @@
             </div>
         </div>
 
-        <div class="col-12 col-sm-3 contact" >
+
             <div class="col-12 col-sm-3 contact" >
+                <div>
                 <h4>Social</h4>
                 <a href="https://www.youtube.com/channel/UCjQhd1APsd5NQhiVZV7GYzg" class="fab fa-youtube"></a>
                 <a href="https://www.facebook.com/sabaton/" class="fab fa-facebook-square"></a>
                 <a href="https://twitter.com/sabaton" class="fab fa-twitter-square"></a>
             </div>
         </div>
-    </div>
 
 </div>
